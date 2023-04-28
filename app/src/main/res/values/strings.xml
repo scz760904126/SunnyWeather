@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SunnyWeather</string>
+    <string name="SearchPlaceHint">输入城市</string>
+    <string name="Place_Fragment_Image_Des">Make the fragment looks beautiful</string>
+</resources>
